@@ -1,5 +1,5 @@
 # Game-Controller-Module
-
+NOTE:  visit the Game-Controller repository for the hardware part.
 This is simple module using the main Joystick Runtimes!
 
 **Things Needed:**
